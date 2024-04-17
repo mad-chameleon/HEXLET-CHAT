@@ -102,7 +102,7 @@ const RegistrationForm = () => {
         />
         <Form.Control.Feedback type="invalid">{formik.errors.passwordConfirmation}</Form.Control.Feedback>
       </Form.Group>
-      <Button variant="btn btn-green" type="submit" className="w-100">
+      <Button variant="btn btn-green" type="submit" className="w-100 reg-btn-sm">
         {t('form.signUpBtn')}
       </Button>
     </Form>
