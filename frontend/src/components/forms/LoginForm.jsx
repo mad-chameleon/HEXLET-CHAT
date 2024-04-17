@@ -49,7 +49,7 @@ const LoginForm = () => {
   });
 
   return (
-    <Form onSubmit={formik.handleSubmit} className="col-10 mt-3 mt-mb-0">
+    <Form onSubmit={formik.handleSubmit} className="pt-0">
       <h1 className="text-center mb-4">{t('form.signIn')}</h1>
       <Form.Group className="mb-3" controlId="username">
         <Form.Control

@@ -12,7 +12,7 @@ const LoginPage = () => {
   return (
     <Container fluid className="mt-5">
       <Row className="justify-content-center align-content-center h-100">
-        <Col className="col-xxs-12 col-md-8 col-lg-5 col-sm-12 pt-0 col-xxl-8">
+        <Col lg={4} md={8} xs={12}>
           <Card className="login-card shadow-sm">
             <Card.Body className="card-body row justify-content-center">
               <LoginForm />
