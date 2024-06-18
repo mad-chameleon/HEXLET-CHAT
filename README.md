@@ -20,7 +20,7 @@ Try [Hexlet Chat](https://hexlet-chat-se8h.onrender.com/)
 
 **Unix OS:**
 
-Clone the project: ```https://github.com/Heaven-Tonight/HEXLET-CHAT.git```
+Clone the project: ```https://github.com/mad-chameleon/HEXLET-CHAT.git```
 
 Install dependencies
 
@@ -32,7 +32,7 @@ Start project
 
 **Windows OS:**
 
-Clone the project: ```https://github.com/Heaven-Tonight/HEXLET-CHAT.git```
+Clone the project: ```https://github.com/mad-chameleon/HEXLET-CHAT.git```
 
 Install dependencies
 
